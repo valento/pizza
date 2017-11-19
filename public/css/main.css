@@ -1,0 +1,25 @@
+body {
+  margin: none;
+  padding: none;
+}
+
+#app {
+  margin: 0 auto;
+}
+
+.container {
+  margin-top: 2em;
+}
+.container select {
+  -webkit-appearance: menulist;
+}
+
+#order_input {
+  border-bottom: dashed 1px #999;
+}
+
+.comp-title {
+  margin-top: 1em;
+  font-style: italic;
+  color: #bbb;
+}
